@@ -1,0 +1,1 @@
+print("mi pana 1")

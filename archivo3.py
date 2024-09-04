@@ -1,0 +1,1 @@
+print("mi neto 1")
